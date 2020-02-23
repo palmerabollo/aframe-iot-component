@@ -1,0 +1,19 @@
+{
+  "name": "aframe-iot-component",
+  "version": "1.0.0",
+  "description": "[A-Frame](https://aframe.io) IOT component (for testing purposes only)",
+  "main": "aframe-iot-component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmerabollo/aframe-iot-component.git"
+  },
+  "keywords": ["a-frame", "vr"],
+  "author": "Guido @palmerabollo",
+  "bugs": {
+    "url": "https://github.com/palmerabollo/aframe-iot-component/issues"
+  },
+  "homepage": "https://github.com/palmerabollo/aframe-iot-component#readme"
+}
