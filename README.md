@@ -14,7 +14,7 @@
 <body>
   <a-scene>
     <a-sphere
-      position="-1 0 -3"
+      position="0 0 -8"
       color="lightgray"
       iot="device: 123">
     </a-sphere>
@@ -28,7 +28,8 @@ Remember to replace the device with your unique device identifier.
 
 ## Demo
 
-You can find a [demo](https://palmerabollo.github.io/aframe-iot-component/).
+You can find a [demo](https://palmerabollo.github.io/aframe-iot-component/) that works on any modern browser.
+
 Try to light the ball up with:
 
 ```bash
