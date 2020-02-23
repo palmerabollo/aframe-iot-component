@@ -25,3 +25,17 @@
 ```
 
 Remember to replace the device with your unique device identifier.
+
+## Demo
+
+You can find a [demo](https://palmerabollo.github.io/aframe-iot-component/).
+Try to light the ball up with:
+
+```bash
+curl -X POST https://keyvalue.immanuel.co/api/KeyVal/UpdateValue/123/status/on -H "Content-Length: 0"
+```
+
+Turn it off with:
+```bash
+curl -X POST https://keyvalue.immanuel.co/api/KeyVal/UpdateValue/123/status/off -H "Content-Length: 0"
+```
