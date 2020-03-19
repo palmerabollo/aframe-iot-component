@@ -7,8 +7,8 @@
 <html>
 
 <head>
-  <script src="https://aframe.io/releases/1.0.3/aframe.min.js"></script>
-  <script src="https://unpkg.com/aframe-iot-component@1.0.0/aframe-iot-component.js"></script>
+  <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+  <script src="https://unpkg.com/aframe-iot-component/aframe-iot-component.js"></script>
 </head>
 
 <body>
